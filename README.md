@@ -37,7 +37,7 @@ First you´ll need to export all the images contained in the proprietary format 
 
 •	Select folder where the *.lif file is located. The program will create a directory with the same name and save the *  files. tif  newly created  and numbered
 
-![Alt text](Cells.png)
+![Alt text](lif.png)
 
 To automatically analyze images:
 
