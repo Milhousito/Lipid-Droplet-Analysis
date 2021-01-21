@@ -56,6 +56,8 @@ With a minimum size  of 20-40  m2 per nucleus we make sure to analyze all cells 
 
 ![Alt text](Cells.png)
 
+![Alt text](Cells2.png)
+
 Enjoy the analysis...
 
 •	Import *.csv files into Microsoft Excel
