@@ -10,7 +10,7 @@ BEFORE RUNNING THE MACRO FOR THE FIRST TIME!!!
 
 *In Windows OS based systems*
 
-Open it with FIJI and cambiarthe lines  87 and 91 of the Macro "LD Analysis_1.0.ijm" to save the results in the desired folder:
+Open it with FIJI and change the lines  87 and 91 of the Macro "LD Analysis_1.0.ijm" to save the results in the desired folder:
 
 87 saveAs("results","C: "Users" User" Carpeta_deseada " +title + "_results.csv");
 
