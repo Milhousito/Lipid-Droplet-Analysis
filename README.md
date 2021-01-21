@@ -12,9 +12,9 @@ The main objective of this macro is to perform a semiautomated batch analysis of
 
 Open it with FIJI and change the lines  87 and 91 of the Macro "LD Analysis_1.0.ijm" to save the results in the desired folder:
 
-87 saveAs("results","C: "Users" User" Carpeta_deseada " +title + "_results.csv");
+87 saveAs("results", "C:\\Users\\YourUser\\Desktop\\Folder\\" + title + "_results.csv");
 
-91 saveAs("Results","C: ?Users?YourUser-Desktop- Carpeta_deseada-Summary.csv");
+91 saveAs("Results", "C:\\Users\\YourUser\\Desktop\\Folder\\Summary.csv");
 
 In the line where we select the threshold method for  lipid droplet detection
 
