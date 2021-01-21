@@ -54,7 +54,7 @@ To automatically analyze images:
 
 With a minimum size  of 20-40  m2 per nucleus we make sure to analyze all cells and not cell remains. For  lipid droplets what we want is to analyze everything and regardless of circularity, hence the minimum size must be small (not 0, but almost, let´s say 0.15-0.20) and the circularity is programmed between 0.00 and 1.00.
 
- 
+                                                                  ![Screenshot](Cells.png)
 
 Enjoy the analysis...
 
