@@ -48,11 +48,11 @@ To automatically analyze images:
 
 
 
-•	Enter the minimum core detection size (in | μ |m2)  (size we already know when we have been fiddling with a sample image of the experiment) and lipid droplets. You will only ask for it in the first image and apply it the same for all. The size to select depends on the cell type and the lens used.
+•	Enter the minimum core detection size (in μm2)  (size we already know when we have been fiddling with a sample image of the experiment) and lipid droplets. You will only ask for it in the first image and apply it the same for all. The size to select depends on the cell type and the lens used.
 
  
 
-With a minimum size  of 20-40  m2 per nucleus we make sure to analyze all cells and not cell debris. For  lipid droplets what we want is to analyze everything and regardless of circularity, hence the minimum size must be small (not 0, but almost, let´s say 0.15-0.20) and the circularity is programmed between 0.00 and 1.00.
+With a minimum size  of 20-40 μm2 per nucleus we make sure to analyze all cells and not cell debris. For  lipid droplets what we want is to analyze everything and regardless of circularity, hence the minimum size must be small (not 0, but almost, let´s say 0.15-0.20) and the circularity is programmed between 0.00 and 1.00.
 
 ![Alt text](Cells.png)
 
