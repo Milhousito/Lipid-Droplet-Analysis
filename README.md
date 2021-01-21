@@ -48,7 +48,7 @@ To automatically analyze images:
 
 
 
-•	Enter the minimum core detection size (in m2)  (size we already know when we have been fiddling with a sample image of the experiment) and lipid droplets. You will only ask for it in the first image and apply it the same for all. The size to select depends on the cell type and the lens used.
+•	Enter the minimum core detection size (in | μ |m2)  (size we already know when we have been fiddling with a sample image of the experiment) and lipid droplets. You will only ask for it in the first image and apply it the same for all. The size to select depends on the cell type and the lens used.
 
  
 
