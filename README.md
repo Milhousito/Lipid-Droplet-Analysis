@@ -24,7 +24,8 @@ We can change for :
 
 69 setAutoThreshold("Default dark"); in the case that will be our preference
 
-The main goal of this automated analysis is the analysis of various parameters (fluorescence intensity, area, etc.) of a BODIPY stain to detect lipid droplets based on detection of the number of cells and number of lipid droplets  bysize.
+
+The main goal of this automated analysis is the analysis of various parameters (fluorescence intensity, area, etc.) of a BODIPY stain to detect lipid droplets based on detection of the number of cells and number of lipid droplets  by size.
 
 First you´ll need to export all the images contained in the proprietary format Leica  file  (*. lif) to a universal manageable  format such as *. tif  in the same directory
 
@@ -49,18 +50,16 @@ To automatically analyze images:
 
 •	Enter the minimum core detection size (in m2)  (size we already know when we have been fiddling with a sample image of the experiment) and lipid droplets. You will only ask for it in the first image and apply it the same for all. The size to select depends on the cell type and the lens used.
 
-  
+ 
 
 With a minimum size  of 20-40  m2 per nucleus we make sure to analyze all cells and not cell remains. For  lipid droplets what we want is to analyze everything and regardless of circularity, hence the minimum size must be small (not 0, but almost, let´s say 0.15-0.20) and the circularity is programmed between 0.00 and 1.00.
 
  
-
 
 Enjoy the analysis...
 
 •	Import *.csv files into Microsoft Excel
 
  
-
 To get the number of lipid droplets  per cell you would have to divide the total number by the number of cells in each file located in the corresponding count column  of  the Summary file.csv
 
